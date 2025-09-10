@@ -29,7 +29,7 @@
     "description": "✅ Real-Time Chat App – Built with Flutter & Firebase\n\nA real-time chat application built with Flutter and Firebase that allows users to communicate seamlessly.\n\n🔹 Features:\n- User authentication with Firebase (signup/login)\n- Realtime messaging using Firestore + StreamBuilder\n- Chatrooms with live updates\n- User profile creation & editing\n- State management using Provider\n- Custom UI with responsive design\n\n🔹 What I Learned:\n- Integrating Firebase Authentication & Firestore into Flutter apps\n- Handling realtime data streams efficiently\n- Managing global state across multiple screens\n- Building scalable chat features with modern UI/UX"
   },
   {
-    "name": "App 4",
+    "name": "Revanced",
     "tagline": "Coming soon: More features!",
     "isAvailable": false,
     "link": "",
@@ -38,11 +38,11 @@
       "https://link-to-screenshot1.jpg",
       "https://link-to-screenshot2.jpg"
     ],
-    "description": "This app helps you organize your tasks easily and track your progress efficiently."
+    "description": "UNKNOWN"
   },
   {
-    "name": "App 5",
-    "tagline": "Plan your schedule smartly",
+    "name": "Advance Demo",
+    "tagline": "Coming soon: Advance!",
     "isAvailable": true,
     "link": "https://play.google.com/store/apps/details?id=com.example.app5",
     "logo": "https://link-to-logo5.png",
@@ -50,6 +50,6 @@
       "https://link-to-screenshot1.jpg",
       "https://link-to-screenshot2.jpg"
     ],
-    "description": "This app helps you organize your tasks easily and track your progress efficiently."
+    "description": "UNKNOWN"
   }
 ]

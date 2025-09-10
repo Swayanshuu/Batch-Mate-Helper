@@ -26,7 +26,7 @@
       "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/gc3.jpg",
       "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/gc4.jpg"
     ],
-    "description": "(Currently app will not work for some technical issues) \n\n✅ Real-Time Chat App – Built with Flutter & Firebase\n\nA real-time chat application built with Flutter and Firebase that allows users to communicate seamlessly.\n\n🔹 Features:\n- User authentication with Firebase (signup/login)\n- Realtime messaging using Firestore + StreamBuilder\n- Chatrooms with live updates\n- User profile creation & editing\n- State management using Provider\n- Custom UI with responsive design\n\n🔹 What I Learned:\n- Integrating Firebase Authentication & Firestore into Flutter apps\n- Handling realtime data streams efficiently\n- Managing global state across multiple screens\n- Building scalable chat features with modern UI/UX"
+    "description": "(Currently app will not work for some technical issues. Sorry for the unfortunate Inconvenience.) \n\n✅ Real-Time Chat App – Built with Flutter & Firebase\n\nA real-time chat application built with Flutter and Firebase that allows users to communicate seamlessly.\n\n🔹 Features:\n- User authentication with Firebase (signup/login)\n- Realtime messaging using Firestore + StreamBuilder\n- Chatrooms with live updates\n- User profile creation & editing\n- State management using Provider\n- Custom UI with responsive design\n\n🔹 What I Learned:\n- Integrating Firebase Authentication & Firestore into Flutter apps\n- Handling realtime data streams efficiently\n- Managing global state across multiple screens\n- Building scalable chat features with modern UI/UX"
   },
   {
     "name": "Revanced",

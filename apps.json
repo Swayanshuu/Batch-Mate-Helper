@@ -7,7 +7,13 @@
     "logo": "https://media.licdn.com/dms/image/v2/D562DAQEH5NwdBbaD_g/profile-treasury-image-shrink_1280_1280/B56ZhGAxBCG4AQ-/0/1753521263118?e=1758135600&v=beta&t=koumpQyG8b2oznXqJFAhCHPwBiBNFWuwlDu-MdVqlYM",
     "screenshots": [
       "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/ts1.jpg",
-      "https://link-to-screenshot2.jpg"
+      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/ts2.jpg",
+      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/ts3.jpg",
+      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/ts4.jpg",
+      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/ts5.jpg"
+      
+      
+      
     ],
    "description": "✅ TODO Stuffs – A Smart Task Organizer App\n\nI built TODO Stuffs, a lightweight and clean to-do list app using Flutter. It helps users keep track of their daily tasks with a smooth, minimal interface. You can add tasks, manage them easily, and even switch to dark mode — and your theme preference stays saved even after restarting the app.\n\n🔹 What it Includes:\n- Add and manage your tasks\n- Dark mode with save support\n- Profile drawer with social links\n- Built using Flutter and Dart\n\n🔍 What I Learned from Building This App:\n- 🌐 How to build responsive UIs using Flutter widgets\n- 🌙 Implementing dark mode and saving preferences with SharedPreferences\n- 🧠 Managing app state effectively using setState\n- 🗂️ Structuring a multi-screen app using Navigator\n- 🧰 Organizing code for better readability and maintenance\n- 🎯 Importance of keeping the UI clean, simple, and user-friendly\n- 🚀 Gained confidence in building real-world apps from scratch using Flutter and Dart\n\n📦 Note: Since the app is not yet published on the Play Store, it may show a \"not Play Protect certified\" warning during installation. But don’t worry — the app is completely safe, doesn’t collect any personal data, and was built only for personal learning and productivity purposes.\n\nThis project was part of my learning journey in app development, and I wanted to build something useful and clean from scratch. It’s available as an APK for Android right now."
 

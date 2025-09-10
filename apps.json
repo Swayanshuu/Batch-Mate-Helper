@@ -42,16 +42,5 @@
       "https://link-to-screenshot2.jpg"
     ],
     "description": "This app helps you organize your tasks easily and track your progress efficiently."
-  },
-  {
-    "name": "App 6",
-    "tagline": "Manage notes & reminders",
-    "isAvailable": true,
-    "link": "https://play.google.com/store/apps/details?id=com.example.app6",
-    "screenshots": [
-      "https://link-to-screenshot1.jpg",
-      "https://link-to-screenshot2.jpg"
-    ],
-    "description": "This app helps you organize your tasks easily and track your progress efficiently."
   }
 ]

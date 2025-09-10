@@ -17,11 +17,11 @@
 
   },
   {
-    "name": "App 2",
-    "tagline": "Coming soon: Stay tuned!",
-    "isAvailable": false,
+    "name": "Global Chat",
+    "tagline": "Chat with people over World!",
+    "isAvailable": true,
     "link": "",
-    "logo": "https://link-to-logo2.png",
+    "logo": "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/GClogo.png",
     "screenshots": [
       "https://link-to-screenshot1.jpg",
       "https://link-to-screenshot2.jpg"

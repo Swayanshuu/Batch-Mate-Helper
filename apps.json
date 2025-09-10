@@ -43,7 +43,7 @@
   {
     "name": "Advance Demo",
     "tagline": "Coming soon: Advance!",
-    "isAvailable": true,
+    "isAvailable": false,
     "link": "https://play.google.com/store/apps/details?id=com.example.app5",
     "logo": "https://link-to-logo5.png",
     "screenshots": [

@@ -18,7 +18,7 @@
     "name": "Global Chat",
     "tagline": "Chat with people over World!",
     "isAvailable": true,
-    "link": "https://drive.google.com/file/d/10zt6UdDa7IazZAYeoUdJj4xrU3IwDy9x/view?usp=drivesdk",
+    "link": "https://drive.google.com/file/d/10zt6UdDa7IazZAYeoUdJj4xrU3IwDy9x/view",
     "logo": "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/GClogo.png",
     "screenshots": [
       "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/gc1.jpg",

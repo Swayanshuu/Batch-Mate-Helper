@@ -1,12 +1,12 @@
 [
   {
-    "name": "App 1",
+    "name": "TODO Stuffs",
     "tagline": "Organize your tasks easily",
     "isAvailable": true,
-    "link": "https://play.google.com/store/apps/details?id=com.example.app1",
-    "logo": "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/logo.png",
+    "link": "https://drive.google.com/file/d/1MGizjocHuqVvi5FTERaeKGJwyIL2LMgL/view",
+    "logo": "https://media.licdn.com/dms/image/v2/D562DAQEH5NwdBbaD_g/profile-treasury-image-shrink_1280_1280/B56ZhGAxBCG4AQ-/0/1753521263118?e=1758135600&v=beta&t=koumpQyG8b2oznXqJFAhCHPwBiBNFWuwlDu-MdVqlYM",
     "screenshots": [
-      "https://link-to-screenshot1.jpg",
+      "https://media.licdn.com/dms/image/v2/D562DAQGWGIw88rM0Lg/profile-treasury-image-shrink_800_800/B56ZgswOH5HQAg-/0/1753097496285?e=1758135600&v=beta&t=xZnwlvZdEoKSpFxKmE9T0A6kwq0-4qErWxk-tQxfFoo",
       "https://link-to-screenshot2.jpg"
     ],
     "description": "This app helps you organize your tasks easily and track your progress efficiently."

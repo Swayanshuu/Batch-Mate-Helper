@@ -1,0 +1,68 @@
+[
+  {
+    "name": "App 1",
+    "tagline": "Organize your tasks easily",
+    "isAvailable": true,
+    "link": "https://play.google.com/store/apps/details?id=com.example.app1",
+    "screenshots": [
+      "https://link-to-screenshot1.jpg",
+      "https://link-to-screenshot2.jpg"
+    ],
+    "description": "This app helps you organize your tasks easily and track your progress efficiently."
+  },
+  {
+    "name": "App 2",
+    "tagline": "Coming soon: Stay tuned!",
+    "isAvailable": false,
+    "link": "",
+    "screenshots": [
+      "https://link-to-screenshot1.jpg",
+      "https://link-to-screenshot2.jpg"
+    ],
+    "description": "This app helps you organize your tasks easily and track your progress efficiently."
+  },
+  {
+    "name": "App 3",
+    "tagline": "Track your habits daily",
+    "isAvailable": true,
+    "link": "https://play.google.com/store/apps/details?id=com.example.app3",
+    "screenshots": [
+      "https://link-to-screenshot1.jpg",
+      "https://link-to-screenshot2.jpg"
+    ],
+    "description": "This app helps you organize your tasks easily and track your progress efficiently."
+  },
+  {
+    "name": "App 4",
+    "tagline": "Coming soon: More features!",
+    "isAvailable": false,
+    "link": "",
+    "screenshots": [
+      "https://link-to-screenshot1.jpg",
+      "https://link-to-screenshot2.jpg"
+    ],
+    "description": "This app helps you organize your tasks easily and track your progress efficiently."
+  },
+  {
+    "name": "App 5",
+    "tagline": "Plan your schedule smartly",
+    "isAvailable": true,
+    "link": "https://play.google.com/store/apps/details?id=com.example.app5",
+    "screenshots": [
+      "https://link-to-screenshot1.jpg",
+      "https://link-to-screenshot2.jpg"
+    ],
+    "description": "This app helps you organize your tasks easily and track your progress efficiently."
+  },
+  {
+    "name": "App 6",
+    "tagline": "Manage notes & reminders",
+    "isAvailable": true,
+    "link": "https://play.google.com/store/apps/details?id=com.example.app6",
+    "screenshots": [
+      "https://link-to-screenshot1.jpg",
+      "https://link-to-screenshot2.jpg"
+    ],
+    "description": "This app helps you organize your tasks easily and track your progress efficiently."
+  }
+]

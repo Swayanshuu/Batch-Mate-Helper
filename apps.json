@@ -4,6 +4,7 @@
     "tagline": "Organize your tasks easily",
     "isAvailable": true,
     "link": "https://play.google.com/store/apps/details?id=com.example.app1",
+    "logo": "https://link-to-logo1.png",
     "screenshots": [
       "https://link-to-screenshot1.jpg",
       "https://link-to-screenshot2.jpg"
@@ -15,6 +16,7 @@
     "tagline": "Coming soon: Stay tuned!",
     "isAvailable": false,
     "link": "",
+    "logo": "https://link-to-logo2.png",
     "screenshots": [
       "https://link-to-screenshot1.jpg",
       "https://link-to-screenshot2.jpg"
@@ -26,6 +28,7 @@
     "tagline": "Coming soon: More features!",
     "isAvailable": false,
     "link": "",
+    "logo": "https://link-to-logo4.png",
     "screenshots": [
       "https://link-to-screenshot1.jpg",
       "https://link-to-screenshot2.jpg"
@@ -37,6 +40,7 @@
     "tagline": "Plan your schedule smartly",
     "isAvailable": true,
     "link": "https://play.google.com/store/apps/details?id=com.example.app5",
+    "logo": "https://link-to-logo5.png",
     "screenshots": [
       "https://link-to-screenshot1.jpg",
       "https://link-to-screenshot2.jpg"

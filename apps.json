@@ -22,17 +22,6 @@
     "description": "This app helps you organize your tasks easily and track your progress efficiently."
   },
   {
-    "name": "App 3",
-    "tagline": "Track your habits daily",
-    "isAvailable": true,
-    "link": "https://play.google.com/store/apps/details?id=com.example.app3",
-    "screenshots": [
-      "https://link-to-screenshot1.jpg",
-      "https://link-to-screenshot2.jpg"
-    ],
-    "description": "This app helps you organize your tasks easily and track your progress efficiently."
-  },
-  {
     "name": "App 4",
     "tagline": "Coming soon: More features!",
     "isAvailable": false,

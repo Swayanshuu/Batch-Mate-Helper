@@ -31,7 +31,7 @@
   {
     "name": "TaskLet",
     "tagline": "Coming soon: With More Featurs",
-    "isAvailable": false,
+    "isAvailable": true,
     "link": "",
     "logo": "https://github.com/Swayanshuu/Batch-Mate-Helper/blob/main/TLorg.png?raw=true",
     "screenshots": [

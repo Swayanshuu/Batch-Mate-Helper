@@ -31,7 +31,7 @@
 {
     "name": "BatchMate",
     "tagline": "Coming soon: With More Featurs",
-    "isAvailable": false,
+    "isAvailable": true,
     "link": "",
     "logo": "",
     "screenshots": [

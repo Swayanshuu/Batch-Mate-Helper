@@ -51,5 +51,17 @@
       "https://link-to-screenshot2.jpg"
     ],
     "description": "UNKNOWN"
+  },
+  {
+    "name": "GeoQuest",
+    "tagline": "Coming soon: Advance!",
+    "isAvailable": true,
+    "link": "https://play.google.com/store/apps/details?id=com.example.app5",
+    "logo": "https://link-to-logo5.png",
+    "screenshots": [
+      "https://link-to-screenshot1.jpg",
+      "https://link-to-screenshot2.jpg"
+    ],
+    "description": "A hackathon project"
   }
 ]

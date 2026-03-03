@@ -68,14 +68,16 @@
   },
   {
     "name": "GeoQuest",
-    "tagline": "Coming soon: Advance!",
+    "tagline": "Hackathon Project \nTop 10 Finalist🔥",
     "isAvailable": true,
-    "link": "https://play.google.com/store/apps/details?id=com.example.app5",
-    "logo": "https://link-to-logo5.png",
+    "link": "https://www.linkedin.com/posts/swayanshu-sarthak-sadangi_hackathon-flutter-mobiledevelopment-activity-7414571328764084225-fjp3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDg8D8B6I9QpHfXRUsfNtixYTsr1KTqCfQ",
+    "logo": "https://media.licdn.com/dms/image/v2/D562DAQGMOrnFUKG88w/profile-treasury-image-shrink_480_480/B56ZuXZ0L7HMAM-/0/1767771686335?e=1773144000&v=beta&t=CROCVt_YLiLloFZwFZeffm-1izYjT9m1-WMGsB_k-B8",
     "screenshots": [
-      "https://link-to-screenshot1.jpg",
-      "https://link-to-screenshot2.jpg"
+      "https://media.licdn.com/dms/image/v2/D562DAQGrffU7nOEtVg/profile-treasury-image-shrink_1920_1920/B56ZuXahnDG0Ac-/0/1767771872351?e=1773144000&v=beta&t=0DxMOtPSM6fENoMGSBZOVKRatfl7_PY4ZEl5nbEAqnw",
+      "https://media.licdn.com/dms/image/v2/D562DAQHYai8QNEmzjA/profile-treasury-image-shrink_8192_8192/B56ZuXaX61JUAk-/0/1767771832808?e=1773144000&v=beta&t=ScZf959WWa9CMhqZIZkOuIWhj-KV3P0dQMdJF1GPi2M",
+      "https://media.licdn.com/dms/image/v2/D562DAQELZ5gbk-mrsg/profile-treasury-image-shrink_8192_8192/B56ZuXacRvJcAg-/0/1767771850770?e=1773144000&v=beta&t=OtISMaLJM3P0rZB3IGCHeYz6OlN3XEkFJL-bzT8UX4k",
+      "https://media.licdn.com/dms/image/v2/D562DAQHK0ov7XuY5VA/profile-treasury-image-shrink_1920_1920/B56ZuXbDYmHYAc-/0/1767772010673?e=1773144000&v=beta&t=9Kl-CKL2f2KwtsluhXoJng5xA_XjlYT358iK6KYyKjE"
     ],
-    "description": "A hackathon project"
+    "description": "GeoQuest is a location-based mobile application built during HackNITR that gamifies real-world exploration through discovery challenges, XP rewards, and leaderboards.\n\nThe app enhances engagement by encouraging users to explore real locations while tracking progress and achievements in real time.\n\nUser safety is a core feature, with an integrated SOS functionality that opens the native SMS app and shares the user’s live location during emergencies.\n\nBuilt using Flutter for the frontend and Node.js, Express, PostgreSQL, and Firebase Authentication for the backend and authentication, GeoQuest emphasizes real-world usability, clean UX design, and a scalable backend architecture."
   }
 ]

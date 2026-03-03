@@ -30,9 +30,9 @@
   },
 {
     "name": "BatchMate",
-    "tagline": "Coming soon: With More Featurs",
-    "isAvailable": false,
-    "link": "",
+    "tagline": "Because every batch is a STROY",
+    "isAvailable": true,
+    "link": "https://drive.google.com/file/d/1b0GFvl4Lp3q7oOJngPKYN3NHzWPTML2E/view?usp=drivesdk",
     "logo": "",
     "screenshots": [
       "https://link-to-screenshot1.jpg",

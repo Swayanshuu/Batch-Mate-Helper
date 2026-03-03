@@ -33,12 +33,14 @@
     "tagline": "Because every batch is a STROY",
     "isAvailable": true,
     "link": "https://drive.google.com/file/d/1b0GFvl4Lp3q7oOJngPKYN3NHzWPTML2E/view?usp=drivesdk",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/BM.png",
     "screenshots": [
-      "https://link-to-screenshot1.jpg",
-      "https://link-to-screenshot2.jpg"
+      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/BM1.jpeg",
+      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/BM2.jpeg",
+      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/BM3.jpeg",
+      "https://raw.githubusercontent.com/Swayanshuu/Batch-Mate-Helper/refs/heads/main/BM4.jpeg"
     ],
-    "description": "UNKNOWN"
+    "description": "Batch Mate – Smart Student Assistant (Full-Stack App) \n\nBatch Mate is a mobile app designed to make student life smarter and more organized. It provides real-time batch notices, timetable management, and quick access to user credentials, allowing students to stay informed and efficient. Users can add, edit, or delete notices and timetable entries effortlessly, all within a smooth, intuitive interface.\nThis project is a full-stack implementation using Flutter for the front-end and Firebase for real-time back-end services, demonstrating my ability to build end-to-end mobile solutions. Batch Mate reflects my skills in creating responsive, user-friendly, and scalable applications that solve real-world student challenges.\n\nBatch Mate – Smart Student Assistant (Full-Stack App) Batch Mate is a mobile app designed to make student life smarter and more organized. It provides real-time batch notices, timetable management, and quick access to user credentials, allowing students to stay informed and efficient. Users can add, edit, or delete notices and timetable entries effortlessly, all within a smooth, intuitive interface. This project is a full-stack implementation using Flutter for the front-end and Firebase for real-time back-end services, demonstrating my ability to build end-to-end mobile solutions. Batch Mate reflects my skills in creating responsive, user-friendly, and scalable applications that solve real-world student challenges.\n\nSkills: Flutter · Firebase · Firebase Auth · Firebase Firestore · Dart · Application Programming Interfaces (API) · Mobile Application Development · UI UX Implemention · Animation · Dio · State Management"
   },
   {
     "name": "TaskLet",
